@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+    <Question>
+        <QuestionText>On peut trouver le grondin rouge uniquement sur les côtes bretonnes.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>Le grondin rouge peuple les fonds marin du Sénégal jusqu’en Écosse, ainsi qu’à l’Ouest de la Méditerranée. Il peuple les fonds de 5 à 200 mètres.</ReplyDescription>
+        <CorrectReplyIndex>1</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Les œufs du grondin sont pélagiques. Cela signifie:</QuestionText>
+        <Replies>
+            <Reply>Ils évoluent librement dans l’eau</Reply>
+            <Reply>Ils éclosent au bout d’un an</Reply>
+        </Replies>
+        <ReplyDescription>Ils sont pondus et fécondés en pleine eaux, mais peuvent alors être une proie facile pour les autres espèces.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Quel est l’un des surnom du grondin ?</QuestionText>
+        <Replies>
+            <Reply>Gros cabot</Reply>
+            <Reply>Félin des eaux</Reply>
+        </Replies>
+        <ReplyDescription>On peut également l’appeler coucou de mer ou bien Rougeot anglais Son nom scientifique est “Aspitriglia Cuculus”.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <!-- Ajoutez plus de questions ici -->
+</Questions>

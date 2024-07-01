@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0bd1c855bb0d09438740932a54b370e, type: 3}
+  m_Name: BarQts
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: "Le bar commun \xE9volue en banc toute sa vie."
+    replies:
+    - Vrai
+    - Faux
+    replyDescription: "Il \xE9volue en effet en banc lorsqu\u2019il il est jeune,
+      mais devient solitaire quand il est plus \xE2g\xE9."
+    correctReplyIndex: 1
+  - questionText: Quel est le surnom du bar commun ?
+    replies:
+    - Loup de mer
+    - "Poisson d\u2019or"
+    replyDescription: "On l\u2019appelle Loup lorsque p\xEAch\xE9 dans la M\xE9diterran\xE9e,
+      et Bar dans l\u2019oc\xE9an Atlantique? Il est \xE9galement appel\xE9 Lubine
+      ou Drenek."
+    correctReplyIndex: 0
+  - questionText: 'Le bar commun est un :'
+    replies:
+    - "Pr\xE9dateur vigoureux"
+    - As du camouflage
+    replyDescription: "Il chasse dans les eaux agit\xE9es, et se nourrit de calmars,
+      poissons s\xE9dentaires et poissons du large"
+    correctReplyIndex: 0

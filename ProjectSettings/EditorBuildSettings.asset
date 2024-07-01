@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Kinect/Scenes/EcranDepart.unity
+    guid: 1621e6616db19424b917c93b2fd6a3c6
+  - enabled: 1
+    path: Assets/Kinect/Scenes/Transition.unity
+    guid: 30f81586c74d7394c935fb2af6bfb189
+  - enabled: 1
+    path: Assets/Kinect/Scenes/FishScene.unity
+    guid: 7c7c0d0eecf53f846a72ce62feb80602
+  - enabled: 1
+    path: Assets/Kinect/Scenes/BarScene.unity
+    guid: c85fcfbdc7bc5084e997630a7a7ac6cc
+  - enabled: 1
+    path: Assets/Kinect/Scenes/DoradeScene.unity
+    guid: d92bb38e7a8f909418996774eb2b881d
+  - enabled: 1
+    path: Assets/Kinect/Scenes/GrondinScene.unity
+    guid: 8f9481b68deb26b4ca66368d3bbe3ee5
+  - enabled: 1
+    path: Assets/Kinect/Scenes/SarScene.unity
+    guid: c599ad5cc78aa684a83845dbbd30984f
+  - enabled: 1
+    path: Assets/Kinect/Scenes/SyngnatheScene.unity
+    guid: 491e4ab84a2ccb64fa4dc30db85e838a
+  m_configObjects: {}

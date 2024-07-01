@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0bd1c855bb0d09438740932a54b370e, type: 3}
+  m_Name: SyngnatheQts
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: "La bouche de la syngnathe aiguille est adapt\xE9e pour manger
+      du plancton."
+    replies:
+    - Vrai
+    - Faux
+    replyDescription: "On dit qu\u2019elle a une bouche su\xE7oir, elle lui permet
+      d\u2019aspirer les planctons dont elle se nourrit."
+    correctReplyIndex: 0
+  - questionText: "La syngnathe aiguille est de la m\xEAme famille que :"
+    replies:
+    - Les hippocampes
+    - Les anguilles
+    replyDescription: "La syngnathe et les hippocampes font partie de la famille
+      des \u201CSyngnathidae\u201D."
+    correctReplyIndex: 0
+  - questionText: "C\u2019est le m\xE2le qui porte les oeufs."
+    replies:
+    - Vrai
+    - Faux
+    replyDescription: "Le m\xE2le garde les oeufs dans sa poche ventrale pendant
+      5 semaines jusqu'\xE0 l'\xE9closion, et il peut incuber les oeufs de diff\xE9rentes
+      femelles."
+    correctReplyIndex: 0

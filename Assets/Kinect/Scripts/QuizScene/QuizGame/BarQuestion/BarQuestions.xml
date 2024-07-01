@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+    <Question>
+        <QuestionText>Le bar commun évolue en banc toute sa vie.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>Il évolue en effet en banc lorsqu’il il est jeune, mais devient solitaire quand il est plus âgé.</ReplyDescription>
+        <CorrectReplyIndex>1</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Quel est le surnom du bar commun ?</QuestionText>
+        <Replies>
+            <Reply>Loup de mer</Reply>
+            <Reply>Poisson d’or</Reply>
+        </Replies>
+        <ReplyDescription>On l’appelle Loup lorsque pêché dans la Méditerranée, et Bar dans l’océan Atlantique? Il est également appelé Lubine ou Drenek.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Le bar commun est un :</QuestionText>
+        <Replies>
+            <Reply>Prédateur vigoureux</Reply>
+            <Reply>As du camouflage</Reply>
+        </Replies>
+        <ReplyDescription>Il chasse dans les eaux agitées, et se nourrit de calmars, poissons sédentaires et poissons du large</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <!-- Ajoutez plus de questions ici -->
+</Questions>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+    <Question>
+        <QuestionText>La dorade royale doit son nom à :</QuestionText>
+        <Replies>
+            <Reply>La tâche dorée sur sa tête</Reply>
+            <Reply>Sa grande nageoire dorsale</Reply>
+        </Replies>
+        <ReplyDescription>La tâche dorée que porte la dorade sur la tête forme une couronne, d’où le nom dorade royale. Son nom scientifique est “Sparus Aurata”.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>La dorade royale change de sexe au cours de sa vie.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>En effet, il est hermaphrodite. Il nait femelle et devient mâle à l’âge de 3 ans.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>La dorade royale n’a pas de dents.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>Elle a de puissantes dents qui lui permet de broyer des crustacés et des mollusques, mais également des poissons.</ReplyDescription>
+        <CorrectReplyIndex>1</CorrectReplyIndex>
+    </Question>
+    <!-- Ajoutez plus de questions ici -->
+</Questions>

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0bd1c855bb0d09438740932a54b370e, type: 3}
+  m_Name: SarQts
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: "Le Sar commun se nourrit exclusivement d\u2019\u0153ufs des autres
+      poissons."
+    replies:
+    - Vrai
+    - Faux
+    replyDescription: "Le sar se nourrit d\u2019oursins, de mollusques bivalves,
+      de vers et de petits crustac\xE9s."
+    correctReplyIndex: 1
+  - questionText: "Qu\u2019est ce qui diff\xE9rencie le sar des autres esp\xE8ces
+      de sa famille (les Sparid\xE9s) ?"
+    replies:
+    - Sa dentition
+    - Sa vue
+    replyDescription: "Le sar commun est le seul sparid\xE9 \xE0 poss\xE9der \xE0
+      la fois des incisives et des molaires."
+    correctReplyIndex: 0
+  - questionText: Le sar commun change de sexe au cours de sa vie.
+    replies:
+    - Vrai
+    - Faux
+    replyDescription: "En effet, il est hermaphrodite. Il nait m\xE2le et finit sa
+      vie femelle, le changement a g\xE9n\xE9ralement lieu entre ses 4 et 6 ans."
+    correctReplyIndex: 0

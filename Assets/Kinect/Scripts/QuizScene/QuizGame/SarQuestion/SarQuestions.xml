@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+    <Question>
+        <QuestionText>Le Sar commun se nourrit exclusivement d’œufs des autres poissons.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>Le sar se nourrit d’oursins, de mollusques bivalves, de vers et de petits crustacés.</ReplyDescription>
+        <CorrectReplyIndex>1</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Qu’est ce qui différencie le sar des autres espèces de sa famille (les Sparidés) ?</QuestionText>
+        <Replies>
+            <Reply>Sa dentition</Reply>
+            <Reply>Sa vue</Reply>
+        </Replies>
+        <ReplyDescription>Le sar commun est le seul sparidé à posséder à la fois des incisives et des molaires.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>Le sar commun change de sexe au cours de sa vie.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>En effet, il est hermaphrodite. Il nait mâle et finit sa vie femelle, le changement a généralement lieu entre ses 4 et 6 ans.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <!-- Ajoutez plus de questions ici -->
+</Questions>

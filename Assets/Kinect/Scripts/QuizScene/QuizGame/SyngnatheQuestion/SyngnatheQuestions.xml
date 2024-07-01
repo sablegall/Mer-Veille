@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+    <Question>
+        <QuestionText>La bouche de la syngnathe aiguille est adaptée pour manger du plancton.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>On dit qu’elle a une bouche suçoir, elle lui permet d’aspirer les planctons dont elle se nourrit.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>La syngnathe aiguille est de la même famille que :</QuestionText>
+        <Replies>
+            <Reply>Les hippocampes</Reply>
+            <Reply>Les anguilles</Reply>
+        </Replies>
+        <ReplyDescription>La syngnathe et les hippocampes font partie de la famille des “Syngnathidae”.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <Question>
+        <QuestionText>C’est le mâle qui porte les oeufs.</QuestionText>
+        <Replies>
+            <Reply>Vrai</Reply>
+            <Reply>Faux</Reply>
+        </Replies>
+        <ReplyDescription>Le mâle garde les oeufs dans sa poche ventrale pendant 5 semaines jusqu'à l'éclosion, et il peut incuber les oeufs de différentes femelles.</ReplyDescription>
+        <CorrectReplyIndex>0</CorrectReplyIndex>
+    </Question>
+    <!-- Ajoutez plus de questions ici -->
+</Questions>
